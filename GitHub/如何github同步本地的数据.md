@@ -2,4 +2,4 @@
 
 
 首先我们在找到我们要上传的文件（夹），
-![第一步](https://img-blog.csdn.net/20170314104654216?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaWFtZGluZ3J1aWhhaGE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![第一步](https://upload-images.jianshu.io/upload_images/11526205-9343cf3e5ad9454f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
